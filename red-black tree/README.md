@@ -1,3 +1,1 @@
-# syh-project
-
-c언어로 redblack tree을 구현해놓았다.
+c언어를 이용해서 rb-tree를 구현하였습니다.
